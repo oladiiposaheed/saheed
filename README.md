@@ -1,7 +1,7 @@
 
 # Nigeria COVID-19 Data Analysis using Python
 
-This project uses data science & analytics skills to collect data, explore the data, perform analysis, create visualizations, and generate insights of Nigeria COVID-19 dataset in each states, Real Domestic Gross Product and State Budget e.t.c. related to the pandemics.
+This project uses data science & analytics skills to collect data, explore the data, perform analysis, create visualizations, and generate insights of Nigeria COVID-19 dataset in each state, Real Domestic Gross Product and State Budget e.t.c. related to the pandemics.
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ The aims and objective of this project are:
 
 i. Applying data science and data analysis skills to scrap live data from the Nigeria Centre for Disease Control (NCDC) Coronavirus Covid-19.
 
-ii. Exploring the data, perform analysis, create visualizations, and generate insights using python tools like numpy, pandas, matplolib, seaborn e.t.c.
+ii. Exploring the data, perform analysis, create visualizations, and generate insights using python tools like numpy, pandas, matplotlib, seaborn e.t.c.
 ## Data Sources
 The data source is divided into different parts, and combine all the different parts of the data to perform analysis and provide insights.
 
