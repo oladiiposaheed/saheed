@@ -27,7 +27,7 @@ v. Nigeria Community Vulnerability Index data The vulnerability index was com
 
 ## Lessons Learned
 
-The project was fun and I learnt a lot. Many challenges were encountered In the process like some columns that were suppose to be integer but were giving in form of object and commas were present. All these were successfully cleaned.
+The project was fun and a lot was learnt. Many challenges were encountered In the process like some columns that were suppose to be integer but were giving in form of object and commas were present. All these were successfully cleaned.
    ## Conclusion
 
    It is no longer a news that COVID-19 pandemic has left no part of the world untouched. The virus emerged from Wuhan, China, and spread to all other country for example Nigeria. Base on the analysis carried out so far, COVID-19 pandemic has an enormous effect on Nigeria health, education, transportation, finance, telecommunication just to mention few. It is high time for leadership, citizens and state institutions to come together for solutions and to prevent the deadly virus from spreading.
