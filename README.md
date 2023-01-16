@@ -19,11 +19,11 @@ i. The Nigeria Centre for Diseases Control (NCDC) monitors the country’s COVID
 
 ii. The Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) publishes daily data on confirmed, death and recovered cases across different countries but we are to extract the data for Nigeria only.
 
-iii. Real Domestic Gross Product DataThe data is used to determine the impact of COVID-19 on the economy. 
+iii. Real Domestic Gross Product Data: The data is used to determine the impact of COVID-19 on the economy. 
 
 iv. State Budget Data: This data shows the effect of COVID-19 on the economy for all the States in Nigeria.
 
-v. Nigeria Community Vulnerability Index data The vulnerability index was computed by considering several factors such as socio-economic status, population density, housing type, transportation, epidemiological, health system etc, these factors are known as themes. Each theme was broken into subthemes, and data was gathered from them to compute the overall vulnerability index score by weighing equally each theme.
+v. Nigeria Community Vulnerability Index data: The vulnerability index was computed by considering several factors such as socio-economic status, population density, housing type, transportation, epidemiological, health system etc, these factors are known as themes. Each theme was broken into subthemes, and data was gathered from them to compute the overall vulnerability index score by weighing equally each theme.
 
 ## Lessons Learned
 
