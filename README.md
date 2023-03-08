@@ -25,7 +25,7 @@ iv. State Budget Data: This data shows the effect of COVID-19 on the economy for
 
 v. Nigeria Community Vulnerability Index data: The vulnerability index was computed by considering several factors such as socio-economic status, population density, housing type, transportation, epidemiological, health system etc, these factors are known as themes. Each theme was broken into subthemes, and data was gathered from them to compute the overall vulnerability index score by weighing equally each theme.
 
-## Lessons Learned
+## Challenge
 
 The project was fun and a lot was learnt. Many challenges were encountered In the process like some columns that were suppose to be integer but were giving in form of object and commas were present. All these were successfully cleaned.
    ## Conclusion
