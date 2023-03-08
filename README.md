@@ -34,7 +34,10 @@ The project was fun and a lot was learnt. Many challenges were encountered In th
 
 The following were applied and achieved successfully during the course of the Nigeria covid-19 data analysis project:
 
-Data collection process from data sources.
-Data cleaning and manipulation of data.
-Develop visualization skills through the use of open-source libraries in Python.
-Generate insights from analysis
+i. Data collection process from data sources.
+
+ii. Data cleaning and manipulation of data.
+
+iii. Develop visualization skills through the use of open-source libraries in Python.
+
+iv. Generate insights from analysis
